@@ -1,5 +1,5 @@
 This is Asma!
-I started my web developement journey 8 months ago.
+I started my web developement journey one year ago.
 I've learned so far html, css, sass, and javascript. I'm curently learning node js, react js, and web design.
 I want to be a MERN stack developer.
 <!---
